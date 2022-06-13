@@ -29,7 +29,6 @@
 
 ## 로그인 페이지_ 회원가입
 ![회원가입 페이지](https://user-images.githubusercontent.com/86825236/173376725-e8e56961-3146-4b64-b50c-c20ab058eb9e.png)
-099ee0a93.png)
 
 ## 전체샷
 ![Frame 1](https://user-images.githubusercontent.com/86825236/173376793-274d79f8-f3e7-4b2f-a4fe-a1498821ec3f.jpg)
