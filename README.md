@@ -1,65 +1,37 @@
 # 22-01-Do-It-Project1
 2022년도 1학기 아주대학교 중앙동아리 Do-It 에서 진행하는 FE - 초급  스터디 관리 레포입니다.
 
-# 🤗 Welcome !! AJOU BEGINNER
+# 프로젝트 결과물
 
-<div align=center>
+## 메인페이지
+![메인 페이지](https://user-images.githubusercontent.com/86825236/173375734-1d7be9ea-1968-49c0-9803-bae2db20f714.png)
 
-[![CONTRIBUTORS](https://img.shields.io/badge/contributors-30-green.svg?style=flat-square)](https://github.com/AJOU-BEGINNER/P-1)
+## 메인페이지_메뉴
+![메뉴](https://user-images.githubusercontent.com/86825236/173375936-ce5aa08a-d030-493c-8936-2860c66aca10.png)
 
-<a href="https://github.com/AJOU-BEGINNER/22-01-Do-It-Beginner-Project1/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=AJOU-BEGINNER/22-01-Do-It-Beginner-Project1" />
-</a>
+## 글쓰기 페이지
+![글쓰기](https://user-images.githubusercontent.com/86825236/173376095-a32bfbe5-e883-48ce-895f-23572a7c6e8b.png)
 
-</div>
+## 글쓰기 페이지 _ 수정
+![수정하기](https://user-images.githubusercontent.com/86825236/173376229-c48f1bfa-dae9-477e-8d62-4dcf26fb153e.png)
 
-## 🧑🏻‍💻 Introduce
+## 글쓰기 페이지_ 삭제
+![삭제하기](https://user-images.githubusercontent.com/86825236/173376330-5a7304ec-8b86-4e98-abbb-00e61866e0e3.png)
 
-안녕하세요, 소프트웨어학과 16학번 **[jin-Pro](https://github.com/jin-Pro)** 입니다. <br/>
-아주대학교 학생들을 위한 웹 풀스택 스터디입니다. <br/>
-22년 1학기 총 40명의 학생들이 참여하였으며 <br/>
-총 1학기간 1번의 프로젝트가 진행됩니다. <br/>
-모두 무난하게 수료하시길 기원합니다. <br/>
-화이팅!! 👍
+## 글쓰기 페이지_ 상세
+![글 상세 페이지](https://user-images.githubusercontent.com/86825236/173376455-b5be44c3-a821-4745-9018-a9fd86b7e152.png)
 
----
+## 로그인 페이지
+![로그인 페이지](https://user-images.githubusercontent.com/86825236/173376542-6661f751-69e3-4b49-9935-373020ef9f99.png)
 
-## 🔥 Goal
+## 로그인 페이지_ 로그인 후
+![로그인 후](https://user-images.githubusercontent.com/86825236/173376630-7f058c14-b84f-410a-827d-aa5099ee0a93.png)
 
-우리는 FE - 초급 스터디를 통해
+## 로그인 페이지_ 회원가입
+![회원가입 페이지](https://user-images.githubusercontent.com/86825236/173376725-e8e56961-3146-4b64-b50c-c20ab058eb9e.png)
+099ee0a93.png)
 
-- 웹 동작 흐름
-- HTTP 통신
-- JavaScript를 통한 DOM 동작 방법
-- SPA , MPA
+## 전체샷
+![Frame 1](https://user-images.githubusercontent.com/86825236/173376793-274d79f8-f3e7-4b2f-a4fe-a1498821ec3f.jpg)
+)
 
-학습을 하여 성장할 계획입니다! 🔥 🔥
-
----
-
-## 🎸 기타
-
-혹시 저희 스터디를 관리하는 [저장소](https://github.com/AJOU-BEGINNER/22-01-Do-It-Beginner-Project1)로 인하여 <br/>
-문제 발생시 [연락망](https://velog.io/@jinpro)으로 연락 주시면 감사하겠습니다. <br/>
-저장소를 찾아주셔서 감사합니다. 🙇🏻 <br/>
-
----
-
-## 참고
-
-- [디자인 및 기획서](https://www.figma.com/file/FMcTfiuDucOpEs2j6fh3XL/2022-Ajou-Beginner-Project-1-1?node-id=0%3A1)
-
-- [Figma 사용법](https://slash-amaranthus-65c.notion.site/Figma-c1dead5d929d44498e94641f8058e10d)
-
-- [프로젝트 조건](https://luxuriant-oboe-e56.notion.site/Project-1-b6b267051f0e47b8ae4f295e6a457a74)
-
-- [Git 사용법](https://github.com/code-squad/codesquad-docs/blob/master/codereview/README.md)
-
----
-
-## 스터디 순서
-
-1. Git 사용법을 참고하여 repo를 clone 받습니다.
-2. Figma 사용법을 확인하여 기획서를 확인합니다.
-3. 디자인 및 기획서를 보고 학습 계획 및 개발 계획을 세웁니다.
-4. 프로젝트 조건을 따르면서 학습 및 개발을 진행합니다.
